@@ -1,7 +1,7 @@
 ---
 name:Caroline Beck
 image: images/CB-web.jpg
-role: PI, Associate Professor (Reader)
+role: PI, Associate Professor
 aliases:
   - C.W. Beck
 links:
