@@ -15,12 +15,7 @@ Caroline Beck
   text="caroline.beck@otago.ac.nz"
   link="caroline.beck@otago.ac.nz"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
@@ -34,8 +29,8 @@ Caroline Beck
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/greeneyefrog226.jpg"
+  caption="Transgenic frog with green fluorescent protein in the lens of the eye "
 %}
 
 {% endcapture %}
@@ -44,8 +39,8 @@ Caroline Beck
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="lens ISH web.jpg/photo.jpg"
+  caption="In situ hybridisation of lens expressed genes in early _Xenopus_ embryos"
 %}
 
 {% endcapture %}
@@ -55,21 +50,15 @@ Caroline Beck
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+#Development
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+#Regeneration
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+#Epilepsy
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
