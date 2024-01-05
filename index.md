@@ -1,9 +1,9 @@
 ---
 ---
 
-# CarolineWBeck's Website
+# Beck Lab Website
 
-An engaging 1-3 sentence description of your lab.
+Caroline Beck's lab is based in Dunedin, on the South Island of New Zealand. We are part of the Department of Zoology at the University of Otago. 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab uses tadpoles of the clawed frog _Xenopus laevis_ to study how appendgaes like tails and legs develop and regenerate, and how rare genetic mutations lead to infantile onset epilepsy in children.
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/frog skeleton.jpg"
   link="research"
   title="Our Research"
   text=text
