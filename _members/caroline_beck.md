@@ -4,7 +4,6 @@ image: images/CB-web.jpg
 role: PI, Associate Professor (Reader)
 aliases:
   - C.W. Beck
-
 links:
   teaching: https://www.otago.ac.nz/zoology/staff/beck)
   orcid: 0000-0001-6489-7425
