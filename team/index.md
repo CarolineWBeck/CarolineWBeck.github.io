@@ -22,7 +22,7 @@ what's this?
 
 {% include figure.html image="images/CB-web.jpg" %}
 {% include figure.html image="images/phoebe_web.jpg" %}
-{% include figure.html image="images/sulagna-web.png" %]
+{% include figure.html image="images/sulagna.jpg" %]
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
