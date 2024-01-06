@@ -27,9 +27,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% capture content %}
 
 {% include figure.html image="images/CB-web.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
+{% include figure.html image="images/phoebe_web.jpg" %}
+{% include figure.html image="images/sulagna-web.png" %]
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
