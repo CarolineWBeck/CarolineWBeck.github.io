@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: CarolineWBeck
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Beck Lab
+subtitle: Development.Regeneration.Epilepsy
+description: We are a developmental biology lab working with _Xenopus laevis_ as a model organism for studying development and regeneration of appendages and how genetic mutations lead to developmental and epileptic encephalopathy (DEE) in humans.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@CarolineWBeck.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: caroline.beck@otago.ac.nz
+  orcid: 0000-0001-6489-7425
+  google-scholar: Caroline Beck
   github: CarolineWBeck
-  twitter: CarolineWBeck
-  youtube: CarolineWBeck
+  twitter: @Frog_squisher
+ 
 
 ### jekyll settings
 
