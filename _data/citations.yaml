@@ -1,47 +1,488 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.6084/m9.figshare.24749607
-  title: Brain imaging of calcium signals in Wildtype <i>Xenopus</i> tadpole treated
-    with 15 mM PTZ
+- id: doi:10.1093/genetics/iyac049
+  title: Noggin proteins are multifunctional extracellular regulators of cell signaling
   authors:
-  - Caroline Beck
+  - Prashath Karunaraj
+  - Olivia Tidswell
+  - Elizabeth J Duncan
+  - Mackenzie R Lovegrove
+  - Grace Jefferies
+  - Travis K Johnson
+  - Caroline W Beck
+  - Peter K Dearden
+  publisher: Genetics
+  date: '2022-03-31'
+  link: https://doi.org/gtcmmg
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bies.201600196
+  title: Manipulating carbohydrate metabolism to enhance regeneration (retrospective
+    on DOI 10.1002/bies.201300110)
+  authors:
+  - Caroline W. Beck
+  publisher: BioEssays
+  date: '2016-09-26'
+  link: https://doi.org/f3rh3g
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.24351
+  title: <i>Xenopus</i> Limb bud morphogenesis
+  authors:
+  - Samuel R. Keenan
+  - Caroline W. Beck
+  publisher: Developmental Dynamics
+  date: '2015-11-03'
+  link: https://doi.org/gtcmmh
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/wdev.163
+  title: Development of the vertebrate tailbud
+  authors:
+  - Caroline W. Beck
+  publisher: WIREs Developmental Biology
+  date: '2014-11-10'
+  link: https://doi.org/gtcmmj
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mod.2015.10.003
+  title: "Gremlin1 induces anterior\u2013posterior limb bifurcations in developing\
+    \ Xenopus limbs but does not enhance limb regeneration"
+  authors:
+  - Yi-Hsuan Wang
+  - Samuel R. Keenan
+  - Jeremy Lynn
+  - James C. McEwan
+  - Caroline W. Beck
+  publisher: Mechanisms of Development
+  date: '2015-11-01'
+  link: https://doi.org/f72z7s
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gep.2014.04.004
+  title: Distal expression of sprouty (spry) genes during Xenopus laevis limb development
+    and regeneration
+  authors:
+  - Yi-Hsuan Wang
+  - Caroline W. Beck
+  publisher: Gene Expression Patterns
+  date: '2014-05-01'
+  link: https://doi.org/f6dcbp
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/joa.12098
+  title: "Attenuation of bone morphogenetic protein signaling during amphibian limb\
+    \ development results in the generation of stage\u2010specific defects"
+  authors:
+  - Tamsin E. M. Jones
+  - Robert C. Day
+  - Caroline W. Beck
+  publisher: Journal of Anatomy
+  date: '2013-08-28'
+  link: https://doi.org/gbdt5s
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/joa.12041
+  title: Fundamental ratios and logarithmic periodicity in human limb bones
+  authors:
+  - Alexis Pietak
+  - Siyan Ma
+  - Caroline W. Beck
+  - Mark D. Stringer
+  publisher: Journal of Anatomy
+  date: '2013-03-22'
+  link: https://doi.org/gtcmmk
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mod.2012.08.001
+  title: Histone deacetylases are required for amphibian tail and limb regeneration
+    but not development
+  authors:
+  - Amy J. Taylor
+  - Caroline W. Beck
+  publisher: Mechanisms of Development
+  date: '2012-09-01'
+  link: https://doi.org/f4dfxp
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-1-61779-992-1_30
+  title: Studying Regeneration in Xenopus
+  authors:
+  - Caroline W. Beck
+  publisher: Methods in Molecular Biology
+  date: '2012-01-01'
+  link: https://doi.org/f36zf5
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gep.2010.10.003
+  title: Analysis of the expression of retinoic acid metabolising genes during Xenopus
+    laevis organogenesis
+  authors:
+  - Joshua Lynch
+  - James McEwan
+  - Caroline W. Beck
+  publisher: Gene Expression Patterns
+  date: '2011-01-01'
+  link: https://doi.org/cp3d3d
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.22555
+  title: Expression of key retinoic acid modulating genes suggests active regulation
+    during development and regeneration of the amphibian limb
+  authors:
+  - James McEwan
+  - Joshua Lynch
+  - Caroline W. Beck
+  publisher: Developmental Dynamics
+  date: '2011-02-02'
+  link: https://doi.org/cj9pc9
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-213x-11-54
+  title: Transdifferentiation from cornea to lens in Xenopus laevis depends on BMP
+    signalling and involves upregulation of Wnt signalling
+  authors:
+  - Robert C Day
+  - Caroline W Beck
+  publisher: BMC Developmental Biology
+  date: '2011-09-06'
+  link: https://doi.org/cr7nxp
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.21890
+  title: 'Beyond early development: <i>Xenopus</i> as an emerging model for the study
+    of regenerative mechanisms'
+  authors:
+  - Caroline W. Beck
+  - "Juan Carlos Izpis\xFAa Belmonte"
+  - Bea Christen
+  publisher: Developmental Dynamics
+  date: '2009-03-11'
+  link: https://doi.org/dthsfd
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.21998
+  title: Gene expression profiles of lens regeneration and development in <i>Xenopus
+    laevis</i>
+  authors:
+  - Erica L. Malloch
+  - Kimberly J. Perry
+  - Lisa Fukui
+  - Verity R. Johnson
+  - Jason Wever
+  - Caroline W. Beck
+  - Michael W. King
+  - Jonathan J. Henry
+  publisher: Developmental Dynamics
+  date: '2009-08-13'
+  link: https://doi.org/fjmv9g
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.21923
+  title: Overexpression of the transcription factor Msx1 is insufficient to drive
+    complete regeneration of refractory stage <i>Xenopus laevis</i> hindlimbs
+  authors:
+  - Donna M. Barker
+  - Caroline W. Beck
+  publisher: Developmental Dynamics
+  date: '2009-03-25'
+  link: https://doi.org/b4xqwh
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-213x-8-66
+  title: Identification of genes associated with regenerative success of Xenopus laevishindlimbs
+  authors:
+  - Esther J Pearl
+  - Donna Barker
+  - Robert C Day
+  - Caroline W Beck
+  publisher: BMC Developmental Biology
+  date: '2008-06-23'
+  link: https://doi.org/ftmqvs
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ydbio.2007.01.027
+  title: Differential ability of Ptf1a and Ptf1a-VP16 to convert stomach, duodenum
+    and liver to pancreas
+  authors:
+  - Zeina H. Jarikji
+  - Sandeep Vanamala
+  - Caroline W. Beck
+  - Chris V.E. Wright
+  - Steven D. Leach
+  - Marko E. Horb
+  publisher: Developmental Biology
+  date: '2007-04-01'
+  link: https://doi.org/btcstr
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mod.2006.07.001
+  title: Temporal requirement for bone morphogenetic proteins in regeneration of the
+    tail and limb of Xenopus tadpoles
+  authors:
+  - Caroline W. Beck
+  - Bea Christen
+  - Donna Barker
+  - Jonathan M.W. Slack
+  publisher: Mechanisms of Development
+  date: '2006-09-01'
+  link: https://doi.org/bv9jq4
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rstb.2004.1463
+  title: Cellular and molecular mechanisms of regeneration in<i>Xenopus</i>
+  authors:
+  - J. M. W. Slack
+  - C. W. Beck
+  - C. Gargioli
+  - B. Christen
+  publisher: 'Philosophical Transactions of the Royal Society of London. Series B:
+    Biological Sciences'
+  date: '2004-05-29'
+  link: https://doi.org/bhcmxc
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1525-142x.2003.03021.x
+  title: "Comparison of <i>even\u2010skipped</i> related gene expression pattern in\
+    \ vertebrates shows an association between expression domain loss and modification\
+    \ of selective constraints on sequences"
+  authors:
+  - Fabien Avaron
+  - "Christelle Tha\xEBron\u2010Antono"
+  - Caroline W. Beck
+  - "V\xE9ronique Borday\u2010Birraux"
+  - "Jacqueline G\xE9raudie"
+  - Didier Casane
+  - Patrick Laurenti
+  publisher: Evolution &amp; Development
+  date: '2003-03-01'
+  link: https://doi.org/fw2xkc
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s1534-5807(03)00233-8
+  title: Molecular Pathways Needed for Regeneration of Spinal Cord and Muscle in a
+    Vertebrate
+  authors:
+  - Caroline W Beck
+  - Bea Christen
+  - Jonathan M.W Slack
+  publisher: Developmental Cell
+  date: '2003-09-01'
+  link: https://doi.org/c574s3
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/dvdy.10231
+  title: "Regeneration\u2010specific expression pattern of three posterior Hox genes"
+  authors:
+  - Bea Christen
+  - Caroline W. Beck
+  - Aurora Lombardo
+  - Jonathan M.W. Slack
+  publisher: Developmental Dynamics
+  date: '2003-01-09'
+  link: https://doi.org/dwqk8s
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1387/ijdb.011489
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2001-2-10-reviews1029
+  title: ''
+  authors:
+  - Caroline W Beck
+  - Jonathan MW Slack
+  publisher: Genome Biology
+  date: '2001-01-01'
+  link: https://doi.org/fbf32s
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1006/dbio.2001.0407
+  title: The Role of BMP Signaling in Outgrowth and Patterning of the Xenopus Tail
+    Bud
+  authors:
+  - Caroline W. Beck
+  - Malcolm Whitman
+  - Jonathan M.W. Slack
+  publisher: Developmental Biology
+  date: '2001-10-01'
+  link: https://doi.org/bj4tpr
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0925-4773(00)00379-8
+  title: Regional gene expression in the epithelia of the Xenopus tadpole gut
+  authors:
+  - Andrew D. Chalmers
+  - Jonathan M.W. Slack
+  - Caroline W. Beck
+  publisher: Mechanisms of Development
+  date: '2000-08-01'
+  link: https://doi.org/fvxrzx
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1242/dev.126.8.1611
+  title: A developmental pathway controlling outgrowth of the <i>Xenopus</i> tail
+    bud
+  authors:
+  - C. W. Beck
+  - J. M. W. Slack
+  publisher: Development
+  date: '1999-04-15'
+  link: https://doi.org/gtcmmn
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0925-4773(99)00217-8
+  title: Gut specific expression using mammalian promoters in transgenic Xenopus laevis
+  authors:
+  - C.W Beck
+  - J.M.W Slack
+  publisher: Mechanisms of Development
+  date: '1999-11-01'
+  link: https://doi.org/cbw3zr
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/s0925-4773(98)00015-x
+  title: Analysis of the developing Xenopus tail bud reveals separate phases of gene
+    expression during determination and outgrowth
+  authors:
+  - C.W Beck
+  - J.M.W Slack
+  publisher: Mechanisms of Development
+  date: '1998-03-01'
+  link: https://doi.org/fq6p37
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:0214-6282
+  title: Involvement of NF-kappaB associated proteins in FGF-mediated mesoderm induction
+  authors: []
+  publisher: The International journal of developmental biology
+  date: '2024-01-07'
+  link: http://europepmc.org/abstract/MED/9496788
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:http://ethos.bl.uk/ProcessSearch.do?query=362617
+  title: "Investigation of the effect of wild type and mutant NF-\u03BAB related proteins\
+    \ on mesoderm induction in Xenopus"
+  date: '2024-01-07'
+  link: http://ethos.bl.uk/ProcessSearch.do?query=362617
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2021.103281
+  title: Bacterial lipopolysaccharides can initiate regeneration of the Xenopus tadpole
+    tail
+  authors:
+  - Thomas F. Bishop
+  - Caroline W. Beck
+  publisher: iScience
+  date: '2021-11-01'
+  link: https://doi.org/gtcmmp
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jnc.15836
+  title: "Characterisation and automated quantification of induced seizure\u2010related\
+    \ behaviours in <i>Xenopus laevis</i> tadpoles"
+  authors:
+  - Sandesh Panthi
+  - Phoebe A. Chapman
   - Paul Szyszka
-  publisher: figshare
-  date: '2023-01-01'
-  link: https://doi.org/gtcgqg
+  - Caroline W. Beck
+  publisher: Journal of Neurochemistry
+  date: '2023-05-17'
+  link: https://doi.org/gtcmmq
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.6084/m9.figshare.24749634
-  title: cas9 30mins baseline Ca2+ signals.mp4
+- id: doi:10.1128/mra.01050-21
+  title: "Complete Genome Sequences of\n            <i>Kinneretia</i>\n          \
+    \  sp. Strain XES5,\n            <i>Shinella</i>\n            sp. Strain XGS7,\
+    \ and\n            <i>Vogesella</i>\n            sp. Strain XCS3, Isolated from\
+    \ Xenopus laevis Skin"
   authors:
-  - Caroline Beck
-  - Paul Szyszka
-  publisher: figshare
-  date: '2023-01-01'
-  link: https://doi.org/gtcgqh
+  - D. T. Hudson
+  - P. A. Chapman
+  - R. C. Day
+  - X. C. Morgan
+  - C. W. Beck
+  publisher: Microbiology Resource Announcements
+  date: '2021-12-16'
+  link: https://doi.org/gtcmmr
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.6084/m9.figshare.24030699
-  title: Montage of behavioural analysis in stage 47 <i>Xenopus laevis</i> tadpoles,
-    normal, seizure and post-ictal recovery behaviours
+- id: doi:10.1002/reg2.27
+  title: Distinct patterns of endosulfatase gene expression during <i>Xenopus laevis</i>
+    limb development and regeneration
   authors:
+  - "Yi\u2010Hsuan Wang"
   - Caroline Beck
-  - Bart R. H. Geurten
-  publisher: figshare
-  date: '2023-01-01'
-  link: https://doi.org/gtcgqj
+  publisher: Regeneration
+  date: '2015-02-01'
+  link: https://doi.org/gtcmms
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.6084/m9.figshare.24022488
-  title: ND2 edited GCaMP6s in brain.mp4
+- id: doi:10.1002/dvdy.517
+  title: Gene expression analysis of the <scp><i>Xenopus laevis</i></scp> early limb
+    bud proximodistal axis
   authors:
-  - Caroline Beck
-  publisher: figshare
-  date: '2023-01-01'
-  link: https://doi.org/gtcgqk
+  - Daniel T. Hudson
+  - Jessica S. Bromell
+  - Robert C. Day
+  - Tyler McInnes
+  - Joanna M. Ward
+  - Caroline W. Beck
+  publisher: Developmental Dynamics
+  date: '2022-07-20'
+  link: https://doi.org/gtcmmt
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/wrr.13003
+  title: Manipulating the microbiome alters regenerative outcomes in <i>Xenopus laevis</i>
+    tadpoles via lipopolysaccharide signalling
+  authors:
+  - Phoebe A. Chapman
+  - Campbell B. Gilbert
+  - Thomas J. Devine
+  - Daniel T. Hudson
+  - Joanna Ward
+  - Xochitl C. Morgan
+  - Caroline W. Beck
+  publisher: Wound Repair and Regeneration
+  date: '2022-02-25'
+  link: https://doi.org/gtcmmv
   orcid: 0000-0001-6489-7425
   plugin: orcid.py
   file: orcid.yaml
